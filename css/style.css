@@ -12,7 +12,11 @@ li {
 p {
 	color:#616161;
 	font-size:15px;
-    font-family:'Arial';}
+  font-family: arial, sans-serif;
+}
+a {
+	font-family: arial, sans-serif;
+}
 .heading_bg{
 	background: #3f4049;
 }
@@ -47,7 +51,7 @@ p {
 }
 .navigation_list li {
 	display:inline;
-	font-family: Arial;
+	font-family: Arial, sans-serif;
 	font-size:14px;
 	color:#272727;
 	margin-left:20px
@@ -63,7 +67,7 @@ li a {
 h2 {
 	font-size:60px;
 	color:#ffffff;
-	font-family: Arial;
+	font-family: Arial, sans-serif;
 	font-weight:normal;
 	text-align:center;
 	margin: 0 155px
@@ -81,7 +85,6 @@ h2 {
 }
 .button a {
 	font-size: 16px;
-	font-family: 'Arial';
 	color: #ffffff;
 	font-weight: bold;
 	text-decoration:none;
@@ -93,7 +96,7 @@ h2 {
 	width: 250px;
 	text-align: center;
 	color: #936cc7;
-	font-family: 'Arial';
+	font-family: arial, sans-serif;
 	font-size: 18px;
 }
 .features_wrapper {
@@ -149,9 +152,7 @@ h3 {
 	text-align:center;
 }
 .title p {
-	font-family: 'Arial';
 	font-size:18px;
-	color: #616161;
 	margin-top:20px;
 }
 .our_focus ul  {
@@ -180,14 +181,11 @@ h3 {
 	background-image: url(../img/photography.png)
 }
 h4 {
-	font-family:'Arial';
+	font-family: arial, sans-serif;
 	font-size:20px;
 	color:#313131;
 }
 .list_content p {
-	font-family:'Arial';
-	font-size:15px;
-	color:#616161;
 	margin-top:30px;
 	line-height:27px;
 }
@@ -219,7 +217,6 @@ a:hover  .hover_on {
 }
 .hover_on p {
 	font-size:18px;
-	font-family:'Arial';
 	color:#313131;
 	margin-top:235px;
 }
@@ -269,13 +266,11 @@ ul.team li:nth-of-type(3) .photo_wrapper{
 	padding: 21px 0;
 }
 h5 {
-	font-family:'Arial';
+	font-family:arial, sans-serif;
 	font-size: 18px;
 }
 .name p {
-	font-family:'Arial';
 	font-size: 13px;
-	color: #616161;
 	margin-top:10px;
 }
 .member_details {
@@ -289,9 +284,6 @@ h5 {
 	color:#272727;
 }
 .txt p {
-	font-family:'Arial';
-	font-size: 15px;
-	color:#616161;
 	line-height: 25px;
 	margin-top:30px;
 }
@@ -320,7 +312,7 @@ h5 {
 	padding-left:30px;
 }
 .social_links li {	
-	font-family:'Arial';
+	font-family: arial, sans-serif;
 	font-size:15px;
 	color:#616161;
 	padding-left: 23px;
@@ -369,8 +361,6 @@ h5 {
 }
 .stats_list p {
 	color:#fefefe;
-	font-size:15px;
-	font-family:'Arial';
 	margin-top:20px;
 }
 .work_steps_bg {
@@ -392,16 +382,12 @@ h5 {
 }
 .content_column p {
 	margin-top:25px;
-	color:#616161;
-	font-size:15px;
-	font-family:'Arial';
 	line-height:27px;
-	font-weight:normal;
 }
 h6 {
 	color:#272727;
 	font-size:25px;
-	font-family:'Arial';
+	font-family:arial, sans-serif;
 }
 .mid_img {
 	width:556px;
@@ -487,7 +473,6 @@ h6 {
 	color:#ffffff;
 }
 .price p {
-	font-family:'Arial';
 	font-size:13px;
 	color:#ffffff;
 }
@@ -519,7 +504,6 @@ h6 {
 	background:#38c695;
 }
 .get_started a p {
-	font-family:'arial';
 	font-size:16px;
 	color:#38c695;
 	margin-top:13px;
@@ -583,9 +567,6 @@ h6 {
 	width: 621px;
 }
 .feedback_txt p {
-	font-family: 'Arial';
-	font-size: 15px;
-	color: #616161;
 	line-height: 27px;
 }
 .sign {
@@ -594,7 +575,6 @@ h6 {
 	background: url(../img/melina.png) no-repeat;
 }
 .sign p {
-	font-family: 'Arial';
 	font-size: 13px;
 	color: #fc5f45;
 	margin-top: 10px;
@@ -661,8 +641,8 @@ h6 {
 	text-align:center;
 }
 .subscription p {
-	font-family:'Arial';
-	font-size:30px; color:#272727;
+	font-size:30px;
+	color:#272727;
 	margin-bottom:40px;
 }
 .subscription form {
@@ -684,7 +664,7 @@ h6 {
 	height:62px;
 	width:186px;
 	padding-left:15px;
-	font-family:'Arial';
+	font-family:arial, sans-serif;
 	font-size:16px;
 	color:#ffffff;
 	background:url(../img/sub_bg.png);
@@ -847,7 +827,7 @@ h6 {
 	width:100%;
 	height:100%;
 	text-align:center;
-	font-family:'Arial';
+	font-family:arial, sans-serif;
 	font-size:16px;
 	color:#616161;
 	border-radius:5px;
@@ -856,7 +836,7 @@ h6 {
 	display:block; width:616px;
 	height:160px;
 	text-align:center;
-	font-family:'Arial';
+	font-family: arial, sans-serif;
 	font-size:16px;
 	color:#616161;
 	border-radius:5px;
